@@ -125,3 +125,7 @@ spec:
  Ref: https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
  AKS learning: https://learn.microsoft.com/en-us/azure/aks/concepts-clusters-workloads#deployments-and-yaml-manifests
  AKS Service account info: https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/aks/
+ How to clear azure cli history?
+        Before I show how to set up the crontab job for this, know that the ~/.bash_history file can be cleared with the command:
+    Command:
+        cat /dev/null > ~/.bash_history
