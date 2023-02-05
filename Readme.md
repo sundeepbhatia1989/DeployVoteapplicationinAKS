@@ -123,3 +123,5 @@ spec:
  git push -u origin main
  --------------------
  Ref: https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
+ AKS learning: https://learn.microsoft.com/en-us/azure/aks/concepts-clusters-workloads#deployments-and-yaml-manifests
+ AKS Service account info: https://learn.microsoft.com/en-us/samples/azure/azure-quickstart-templates/aks/
